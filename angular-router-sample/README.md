@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 This is a angular routing fundamental application. To learn basic concept of routing provided by angular.
 
-##Steps:
+# Steps:
 
 1. Create a new angular application using angular CLI. Include Angular Routing also.
 2. Create a Component directory inside App folder.
